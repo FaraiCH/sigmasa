@@ -1628,7 +1628,7 @@ p {
     border-radius: 50%;
     margin-bottom: 25px;
     background: #fff;
-    border: 2px solid #3763EB;
+    border: 2px solid black;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1638,7 +1638,7 @@ p {
     -ms-background-clip: text;
     -o-background-clip: text;
     background-clip: text;
-    background-image: linear-gradient(#3763eb 0%, #6f58e8 100%);
+    background-image: linear-gradient(#000000 0%, #000000 100%);
     font-size: 40px;
     -webkit-transition: all 0.3s ease-out 0s;
     -moz-transition: all 0.3s ease-out 0s;
@@ -1655,7 +1655,7 @@ p {
       position: absolute;
       opacity: 0;
       visibility: hidden;
-      background: linear-gradient(#3763eb 0%, #6f58e8 100%);
+      background: linear-gradient(#000000 0%, #6f58e8 100%);
       -webkit-transition: all 0.3s ease-out 0s;
       -moz-transition: all 0.3s ease-out 0s;
       -ms-transition: all 0.3s ease-out 0s;
