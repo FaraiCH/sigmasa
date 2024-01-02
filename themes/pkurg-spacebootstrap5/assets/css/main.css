@@ -192,7 +192,7 @@ p {
   z-index: 5;
   transition: all .4s ease-in-out;
   border: none;
-  background: #000000;
+    background: linear-gradient(to left, #3763eb 0%, #6f58e8 50.39%, #3763eb 100%);
   background-size: 200% auto;
   overflow: hidden; }
   .theme-btn:hover, .theme-btn:focus {
